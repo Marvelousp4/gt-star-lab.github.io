@@ -8,11 +8,11 @@ image: /papers/images/2025-yang-automated-deboning.png
 
 authors: Zhaodong Yang, Ai-Ping Hu, Harish Ravichandar
 
-year: 2025
+year: 2026
 
-journal: Preprint
+journal: International Conference on Robotics and Automation (ICRA)
 
-ref: Yang et al., Preprint, 2025.
+ref: Yang et al., ICRA, 2026.
 
 supplement: https://sites.google.com/view/chickendeboning-2026
 
