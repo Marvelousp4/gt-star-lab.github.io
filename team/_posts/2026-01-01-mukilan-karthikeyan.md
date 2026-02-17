@@ -4,7 +4,7 @@ title: Mukilan Karthikeyan
 level: grad
 position: MS Student
 github: MukilanKarthikeyan
-image: /team/images/mukilan-karthikeyan.jpg
+image: /team/images/mukilan-karthikeyan.png
 website: https://mukilankarthikeyan.github.io/MukilanK/
 email: mkarthikeyan6@gatech.edu
 ---
