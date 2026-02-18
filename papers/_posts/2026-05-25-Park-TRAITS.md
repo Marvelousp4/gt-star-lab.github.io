@@ -6,7 +6,7 @@ authors: Jinwoo Park, Harish Ravichandar, Seth Hutchinson
 year: 2026
 ref: Park et al., AAMAS 2026.
 journal: Autonomous Agents and Multi-Agent Systems (AAMAS) - Oral
-arxiv: https://arxiv.org/abs/2602.13866
+arxiv: "2602.13866"
 github: GT-STAR-Lab/TRAITS
 
 ---
